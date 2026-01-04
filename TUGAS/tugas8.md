@@ -7,3 +7,5 @@ Check-out berhasil
 <img width="1913" height="919" alt="3" src="https://github.com/user-attachments/assets/8633096a-9b3f-4c8c-af88-d5c75862e075" />
 Tampilan halaman report yg berisi data presensi dari semua user
 <img width="1913" height="884" alt="4" src="https://github.com/user-attachments/assets/bd13bcfb-0221-4d6b-834c-b2b4a9a22509" />
+Screenshot tabel presensi di database
+<img width="1605" height="497" alt="5" src="https://github.com/user-attachments/assets/a1ebed5e-df2e-49f8-8ab2-ce4091ebe35c" />
